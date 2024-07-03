@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am currently working on: Triangulating the Neural Correlates of Consciousness
-- - 💬 Ask me about: EEG/EMG, Machine Learning, Deep Neural Networks
+- 💬 Ask me about: EEG/EMG, Machine Learning, Deep Neural Networks
 - 🌱 I am currently learning: SQL, RNN and LSTM, 3D Modeling
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am from Brazil, but I love Hockey!
