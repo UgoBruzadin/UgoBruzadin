@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Triangulation Project
+- 🔭 I’m currently working on: Triangulating the Neural Correlates of Consciousness
 - - 💬 Ask me about: EMG/EEG, Machine Learning, Deep Neural Networks
 - 🌱 I’m currently learning: SQL, RNN and LSTM
 - 😄 Pronouns: He/Him/His
