@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ugo Bruzadin Nunes, PhD
 
-# I'm a computational neuroscientist. I develop scripts to, process and analyze EEG using Matlab, R, and Python. 
+# I'm a computational neuroscientist. I develop scripts to, process and analyze EEG data using Matlab, R, and Python. 
 
 <!--
 **UgoBruzadin/UgoBruzadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
