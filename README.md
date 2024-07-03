@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ugo! 
 
 <!--
 **UgoBruzadin/UgoBruzadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently working on: Triangulation Project
+- 🌱 I’m currently learning: SQL, RNN and LSTM
+- 💬 Ask me about: EEG, Machine Learning, Neural Nets
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm from Brazil, but don't follow soccer newa (not as much as Brazilians anyway)
 -->
