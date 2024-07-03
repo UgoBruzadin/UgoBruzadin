@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about: EEG, Machine Learning, Neural Nets
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm from Brazil, but don't follow soccer newa (not as much as Brazilians anyway)
--->
