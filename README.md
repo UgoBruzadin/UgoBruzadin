@@ -1,24 +1,25 @@
-# Hi there 👋, I am Ugo Bruzadin Nunes, PhD
+# Hi there 👋, I'm Ugo Bruzadin Nunes, PhD
 
-## I am a computational neuroscientist. I develop scripts to process and analyze EEG/EMG data using Matlab, R, and Python. 
+Welcome to my GitHub! I'm a PostDoctoral Fellow at Chapman University, specializing in computational neuroscience.
 
-<!--
-**UgoBruzadin/UgoBruzadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am passionate about developing scripts to process and analyze EEG/EMG data using Matlab, R, and Python. My research focuses on:
+- 🔭 **Current Projects:**
+    - Triangulating the Neural Correlates of Consciousness
+    - Decoding Inattentional Blindness
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Matlab, R, Python
+- **Techniques:** EEG/EMG analysis, Machine Learning, Deep Neural Networks
+- **Currently Learning:** SQL, RNN and LSTM, 3D Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- 💬 **Ask me about:** EEG/EMG, Machine Learning, Deep Neural Networks
+- 📫 [Email me](mailto:ugobruzadin@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/UgoBruzadin)
 
-- 🔭 I am currently working on: Triangulating the Neural Correlates of Consciousness
-- 💬 Ask me about: EEG/EMG, Machine Learning, Deep Neural Networks
-- 🌱 I am currently learning: SQL, RNN and LSTM, 3D Modeling
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am from Brazil, but I love Hockey!
+## Fun Facts
+- 😄 **Pronouns:** He/Him/His
+- ⚡ **Fun fact:** I am from Brazil, but I love hockey!
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
