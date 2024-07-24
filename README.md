@@ -16,8 +16,8 @@ I am passionate about developing scripts to process and analyze EEG/EMG data usi
 ## Favorite Projects
 Here are some of my favorite projects that showcase my work:
 - [Project 1: QuickLab](https://github.com/UgoBruzadin/QuickLab) - A comprehensive toolkit for EEGLAB for processing and analyzing EEG data (MATLAB)
-- [Project 2: Decoding EEG/ERP Across Tasks and Time ](https://github.com/yourusername/project3) - Using ML to decode brain signals across time (Jupyter Notebook - Python)
-- [Project 3: Using CNN to decode EEG ](https://github.com/yourusername/project3) - Using Neural Networks to decode brain signals (Jupyter Notebook - Python)
+- [Project 2: Decoding EEG/ERP Across Tasks and Time ](https://github.com/UgoBruzadin/Triangulation_Project) - Using ML to decode brain signals across time (Jupyter Notebook - Python)
+- [Project 3: Using CNN to decode EEG ](https://github.com/UgoBruzadin/CNN_benchmark_EEG_Blindness) - Using Neural Networks to decode brain signals (Jupyter Notebook - Python)
 
 ## Get in Touch
 - 💬 **Ask me about:** EEG/EMG, Machine Learning, Deep Neural Networks
