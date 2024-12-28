@@ -11,7 +11,7 @@ I am passionate about developing scripts to process and analyze EEG/EMG data usi
 ## Skills
 - **Programming Languages:** Matlab, R, Python
 - **Techniques:** EEG/EMG analysis, Machine Learning, Deep Neural Networks
-- **Currently Learning:** SQL, RNN and LSTM, 3D Modeling
+- **Currently Learning:** SQL, RNN and LSTM
 
 ## Favorite Projects
 Here are some of my favorite projects that showcase my work:
