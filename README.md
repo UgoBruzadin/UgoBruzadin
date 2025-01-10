@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a PostDoctoral Fellow at Chapman University, specializ
 I am passionate about developing scripts to process and analyze EEG/EMG data using Matlab, R, and Python. My research focuses on:
 - 🔭 **Current Projects:**
     - Triangulating the Neural Correlates of Consciousness
-    - Decoding Inattentional Blindness
+    - Identifying Novel Neural Correlates of Consciousness in Inattentional Blindness
 
 ## Skills
 - **Programming Languages:** Matlab, R, Python, JavaScript, SQL
