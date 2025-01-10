@@ -10,14 +10,17 @@ I am passionate about developing scripts to process and analyze EEG/EMG data usi
 
 ## Skills
 - **Programming Languages:** Matlab, R, Python, JavaScript, SQL
-- **Techniques:** Machine Learning (SciKit-Learning), Deep Neural Networks (Keras-Tensorflow, Pytorch)
+- **Techniques:** Machine Learning (SciKit-Learning), Deep Neural Networks (Keras-Tensorflow, Pytorch), Time-series analysis
 - **Currently Learning:** NLPs, LLMs
 
 ## Favorite Projects
 Here are some of my favorite projects that showcase my work:
-- [Project 1: QuickLab](https://github.com/UgoBruzadin/QuickLab) - A comprehensive toolkit for EEGLAB for processing and analyzing EEG data (MATLAB)
-- [Project 2: Decoding EEG/ERP Across Tasks and Time ](https://github.com/UgoBruzadin/Triangulation_Project) - Using ML to decode brain signals across time (Jupyter Notebook - Python)
-- [Project 3: Using CNN to decode EEG ](https://github.com/UgoBruzadin/CNN_benchmark_EEG_Blindness) - Using Neural Networks to decode brain signals (Jupyter Notebook - Python)
+- 
+- [Project 1: Decoding EEG/ERP Across Tasks and Time ](https://github.com/UgoBruzadin/Triangulation_Project) - A moving-window cross-validation implementation for ML decoding and testing over time - pipeline to and compare multiple models' AUC, accuracy, f1-score (Jupyter Notebook - Python [Keras, TensorFlow, Scikit-Learn, XGboost, Numpy, Scipy, Pandas, Pickle, Matplotlib, Seaborn])
+- [Project 2: Using CNN to decode EEG ](https://github.com/UgoBruzadin/CNN_benchmark_EEG_Blindness) - Created a 3D Convolutional Neural Network to decode brain signals over time (Jupyter Notebook - Python [Keras, TensorFlow, Numpy, Pandas, Pickle, Matplotlib, Seaborn])
+- [Project 3: QuickLab](https://github.com/UgoBruzadin/QuickLab) - A comprehensive toolkit for EEGLAB for processing and analyzing EEG data (MATLAB)
+- [Project 4: XTTS read-outloud ](https://github.com/UgoBruzadin/XTTS-Read-Aloud) - Redesigned a Chrome extension to train voice models using XTTS2 and read outloud any text on chrome. This is a fork, but I redesigned the whole interface (HTML, JavaScript, CSS, JSON)
+- [Project 5: Mental Imagery and Tracking Experiments](https://github.com/UgoBruzadin/Mental-Imagery-and-Tracking-JavaScript-) - Created an 5 tasks for my Master's Thesis experiments, including multi-object tracking, mental rotation, and mouse-object traking (PHP, HTML, JavaScript, CSS, SQL)
 
 ## Get in Touch
 - 💬 **Ask me about:** EEG/EMG, Machine Learning, Deep Neural Networks
