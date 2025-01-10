@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ugo Bruzadin Nunes, PhD
 
-Welcome to my GitHub! I'm a PostDoctoral Fellow at Chapman University, specializing in computational neuroscience research.
+Welcome to my GitHub! I'm a PostDoctoral Fellow at Chapman University, specializing in data science with focus on computational neuroscience research. Originally from Brazil, I got my PhD with focus on Psychology with focus on Cognitive Neuroscience, but fell in love with Data Science and Computational Neuroscience. My expertise is in solving complicated problems, bringing insights from complex data, and accelerating data processing.
 
 ## About Me
 I am passionate about developing scripts to process and analyze EEG/EMG data using Matlab, R, and Python. My research focuses on:
