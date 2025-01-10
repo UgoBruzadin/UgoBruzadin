@@ -9,9 +9,9 @@ I am passionate about developing scripts to process and analyze EEG/EMG data usi
     - Decoding Inattentional Blindness
 
 ## Skills
-- **Programming Languages:** Matlab, R, Python
-- **Techniques:** EEG/EMG analysis, Machine Learning, Deep Neural Networks
-- **Currently Learning:** SQL, RNN and LSTM
+- **Programming Languages:** Matlab, R, Python, JavaScript, SQL
+- **Techniques:** Machine Learning (SciKit-Learning), Deep Neural Networks (Keras-Tensorflow, Pytorch)
+- **Currently Learning:** NLPs, LLMs
 
 ## Favorite Projects
 Here are some of my favorite projects that showcase my work:
