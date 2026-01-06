@@ -14,8 +14,7 @@ I am passionate about developing scripts to process and analyze EEG/EMG data usi
 
 ## Skills
 - **Programming Languages:** Matlab, R, Python, JavaScript, SQL
-- **Techniques:** Machine Learning (SciKit-Learning), Deep Neural Networks (Keras-Tensorflow, Pytorch), Time-series analysis
-- **Currently Learning:** NLPs, LLMs
+- **Techniques:** Machine Learning (SciKit-Learning), Deep Neural Networks (Keras-Tensorflow, Pytorch), Time-series analysis (Numpy/Pandas/Torch/MNE), Data plotting (Seaborn/Matplotlib)
 
 ## Favorite Projects
 Here are some of my favorite projects that showcase my work:
