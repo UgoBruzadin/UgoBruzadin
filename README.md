@@ -2,14 +2,14 @@
 
 Welcome to my GitHub! I'm a Neural Data Scientist at Alljoined Inc. I am an expert in EEG preprocessing, neural decoding and identifying neural correlates and neural biomarkers of cognitive, emotional, and clinical processes. 
 
-I was until recently a PostDoctoral Fellow at Chapman University, specializing in data science with focus on computational neuroscience research. Originally from Brazil, I got my PhD with focus on Psychology with focus on Cognitive Neuroscience, but fell in love with Data Science and Computational Neuroscience. My expertise is in bringing actionable insights from complex multimodal data, and accelerating data processing, following rigorous scientific procedures and standards. 
+I am also a Visiting Scholar (previously a PostDoctoral Fellow at Chapman University), specializing in data science with focus on computational neuroscience research, where I worked on decoding neural correlates of consciousness. Originally from Brazil, I got my PhD with focus on Psychology with focus on Cognitive Neuroscience, but fell in love with Data Science and Computational Neuroscience. My expertise is in bringing actionable insights from complex multimodal data, and accelerating data processing, following rigorous scientific procedures and standards. 
 
 ## About Me
-I am passionate about developing scripts to process and analyze EEG/EMG data using Matlab, R, and Python. My research focuses on:
+I am passionate about developing scripts to process and analyze EEG/EMG data using Python, Matlab, R. My research until now has focused on:
 - 🔭 **Current Projects:**
-    - Image Reconstruction from ERP
+    - Image Reconstruction from ERP/EEG
+    - Multimodal semantic decoding of EEG
     - Emotional Decoding from Images and Videos
-    - Triangulating the Neural Correlates of Consciousness
     - Identifying Novel Neural Correlates of Consciousness in Inattentional Blindness
 
 ## Skills
