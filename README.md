@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Neural Data Scientist at Alljoined Inc. I am an expert in EEG preprocessing, neural decoding and identifying neural correlates and neural biomarkers of cognitive, emotional, and clinical processes. 
 
-I am also a Visiting Scholar (previously a PostDoctoral Fellow at Chapman University), specializing in data science with focus on computational neuroscience research, where I worked on decoding neural correlates of consciousness. My expertise is in bringing actionable insights from complex multimodal data, and accelerating data processing, following rigorous scientific procedures and standards. 
+I am also a Visiting Scholar (previously a PostDoctoral Fellow) at Chapman University, specializing in data science with focus on computational neuroscience research, where I worked on decoding neural correlates of consciousness. My expertise is in bringing actionable insights from complex multimodal data, and accelerating data processing, following rigorous scientific procedures and standards. 
 
 ## About Me
 I am passionate about developing scripts to process and analyze EEG/EMG data using Python, Matlab, R. My research until now has focused on:
