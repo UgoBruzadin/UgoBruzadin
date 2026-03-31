@@ -15,13 +15,13 @@ I've been a key contributor to two major projects at Alljoined:
 ## Current Projects
 - **EEG-Based Image Reconstruction** — Decoding visual perception from brain signals
 - **EEG Quality Analysis** — Investigating how EEG recording quality metrics predict neural decoding performance
-- **Syn2Emo** — Synthetic emotion labeling with multimodal LLMs, benchmarked against NAPS, OASIS, and GAPED datasets
 - **FG/BG EEG Analysis** — Studying foreground vs. background contributions to CLIP representations and their implications for EEG reconstruction
+- **Syn2Emo** — Synthetic emotion labeling with multimodal LLMs, benchmarked against NAPS, OASIS, and GAPED datasets
 - **FPVS Emotion Proxy** — Fast Periodic Visual Stimulation for facial expression
 
 ## Skills
-- **Programming Languages:** Python, MATLAB, R, JavaScript, SQL
-- **Techniques:** Vision, NLP, Deep Neural Networks (PyTorch, Keras/TensorFlow), Machine Learning (Scikit-Learn), Time-Series Analysis (MNE, NumPy, Pandas), Data Visualization (Seaborn, Matplotlib)
+- **Programming Languages:** Python, MATLAB, R, JavaScript, mySQL
+- **Techniques:** Vision, NLP, Deep Neural Networks (PyTorch, Keras/TensorFlow), Machine Learning (Scikit-Learn), Time-Series Analysis (MNE, NumPy, Pandas), Data Visualization (Seaborn, Matplotlib), 
 
 ## Other Projects
 - [Triangulation Project](https://github.com/UgoBruzadin/Triangulation_Project) — Cross-task EEG/ERP decoding with moving-window cross-validation across multiple ML models
@@ -36,6 +36,6 @@ I've been a key contributor to two major projects at Alljoined:
 
 ## Fun Facts
 - **Pronouns:** He/Him/His
-- **Fun fact:** I am s recent dad, I love spending time with my kid! Also I'm a hardcore gamer, but love to disconnext and go to the wild to touch grass.
+- **Fun fact:** I am a recent dad, I love spending time with my kid! Also I'm a hardcore gamer, but love to disconnext and go to the wild to touch grass.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
