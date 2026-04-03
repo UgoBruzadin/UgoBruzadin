@@ -8,35 +8,35 @@
 
 I'm a computational neuroscientist specializing in brain–computer interfaces, with 10+ years of experience in EEG decoding, multimodal data pipelines, and machine learning for neural signal processing. Currently developing next-generation BCI technologies for visual reconstruction and consciousness decoding.
 
-## 🔬 Featured Research & Projects
+## Featured Research & Projects
 
-### 🧠 **ENIGMA** - Unified EEG-to-Image Model
+### **ENIGMA** - Unified EEG-to-Image Model
 *Multi-subject EEG neural image reconstruction model. Submitted to CVPR 2026.*
 - Reduces new-user calibration from hours to ~15 minutes
 - Uses shared neural patterns across individuals with lightweight latent alignment
 - Cross-modal alignment between EEG embeddings and visual latent spaces (CLIP)
 - [GitHub](https://github.com/UgoBruzadin/ENIGMA) • [Blog Post](https://www.alljoined.com/blog/introducing-enigma)
 
-### 📊 **Alljoined-1.6M** - Large-Scale EEG Dataset
+### **Alljoined-1.6M** - Large-Scale EEG Dataset
 *1.6 million visual stimulus trials for affordable BCI research. Published on OpenArxiv 2025.*
 - Dataset from 20 participants on consumer-grade hardware
 - Demonstrates scaling laws apply to low-quality brain data
 - Consumer EEG requires 20x+ the data volume of lab-grade systems
 - [GitHub](https://github.com/UgoBruzadin/Alljoined-1.6M) • [Blog Post](https://www.alljoined.com/blog/introducing-alljoined-1-6m)
 
-### 🧪 **Triangulation Project** - Consciousness Decoding
+### **Triangulation Project** - Consciousness Decoding
 *Cross-task EEG/ERP decoding framework with temporal generalization.*
 - Moving-window cross-validation across multiple ML models
 - 134% speedup in analysis; novel signatures identified (VAP, inattentional blindness correlates)
 - [GitHub](https://github.com/UgoBruzadin/Triangulation_Project)
 
-### ⚡ **QuickLab** - EEG Preprocessing Tool
+### **QuickLab** - EEG Preprocessing Tool
 *Open-source EEGLAB plugin for high-speed EEG preprocessing and visualization.*
 - Parallelized MATLAB processing with streamlined GUI
 - ~500% improvement in processing speed
 - [GitHub](https://github.com/UgoBruzadin/QuickLab)
 
-## 💼 Current Work
+## Current Work
 
 **Neural Data Scientist** @ Alljoined (2025–Present)
 - Designing end-to-end ML pipelines for multimodal datasets (EEG, behavioral data, eye-tracking)
@@ -47,7 +47,7 @@ I'm a computational neuroscientist specializing in brain–computer interfaces, 
 - Computational models decoding conscious perception using EEG and ML
 - Managing multi-lab EEG projects (>5 TB data, 200+ participants)
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming & Tools:** Python, PyTorch, TensorFlow, Scikit-Learn, MATLAB, SQL, JavaScript, R, C/C++
 
@@ -57,35 +57,35 @@ I'm a computational neuroscientist specializing in brain–computer interfaces, 
 
 **Infrastructure:** Docker, AWS, SLURM, Git, Experiment Versioning
 
-## 📚 Recent Publications
+## Recent Publications
 
 - *"ENIGMA: A Unified Lightweight EEG-to-Image Model for Multi-Subject Visual Decoding"* - CVPR 2026 Submission
 - *"Alljoined-1.6M: A Million-Trial EEG-Image Dataset for Evaluating Affordable BCIs"* - OpenArxiv 2025
 - *"Two, Not One: Electrophysiological Correlates of Consciousness in a No-Report Paradigm"* - ASSC 2025 Poster
 - *"Visual Awareness Positivity: A Novel Neural Correlate of Consciousness"* - VSS 2025 Talk
 
-## 🎓 Education
+## Education
 
 - **Ph.D. Cognitive Neuroscience** - Southern Illinois University (2023)
 - **M.A. Cognitive Neuroscience** - Southern Illinois University (2018)
 - **B.A. Psychology** - Pontíficia Universidade Católica de São Paulo (2012)
 
-## 🤝 Let's Connect
+## Let's Connect
 
 **Ask me about:** EEG/BCI, Neural Decoding, Deep Learning for Neuroscience, Multimodal Data Pipelines
 
-- [📧 Email](mailto:ugobruzadin@gmail.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/ugonunes/)
-- [🌐 Portfolio](https://ugobruzadin.github.io/portfolio/)
+- [Email](mailto:ugobruzadin@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ugonunes/)
+- [Portfolio](https://ugobruzadin.github.io/portfolio/)
 
-## 🎯 Fun Facts
+## Fun Facts
 
 - **Pronouns:** He/Him/His
 - **Fun fact:** Recent dad who loves spending time with my kid! Also a hardcore gamer who enjoys disconnecting to touch grass in the wild.
 
 ---
 
-⭐ **Check out my [interactive portfolio](https://ugobruzadin.github.io/portfolio/)** for detailed project showcases, experience timeline, and publications!
+**Check out my [interactive portfolio](https://ugobruzadin.github.io/portfolio/)** for detailed project showcases, experience timeline, and publications!
 
 ---
 
