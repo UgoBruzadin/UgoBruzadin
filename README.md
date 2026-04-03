@@ -1,41 +1,92 @@
-# Hi there, I'm Ugo Bruzadin Nunes, PhD
+# 👋 Hi there, I'm Ugo Bruzadin Nunes, PhD
 
-Welcome to my GitHub! I'm a Neural Data Scientist at [Alljoined Inc.](https://www.alljoined.com), where I work on large-scale EEG-based image reconstruction and brain-computer interfaces. I am also a Visiting Scholar at Chapman University, specializing in computational neuroscience and neural decoding.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge&logo=react)](https://ugobruzadin.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ugonunes/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ugobruzadin@gmail.com)
 
-My expertise spans EEG preprocessing, neural decoding, and identifying neural correlates of cognitive, emotional, and clinical processes — bringing actionable insights from complex multimodal data following rigorous scientific standards.
+> Neural Data Scientist at [Alljoined Inc.](https://www.alljoined.com) • Brain–Computer Interface Researcher • San Francisco, CA
 
-## Research Highlights
+I'm a computational neuroscientist specializing in brain–computer interfaces, with 10+ years of experience in EEG decoding, multimodal data pipelines, and machine learning for neural signal processing. Currently developing next-generation BCI technologies for visual reconstruction and consciousness decoding.
 
-I've been a key contributor to two major projects at Alljoined:
+## 🔬 Featured Research & Projects
 
-- **[Alljoined-1.6M](https://www.alljoined.com/blog/introducing-alljoined-1-6m)** — A large-scale EEG-image dataset with over 1.6 million visual stimulus trials from 20 participants on consumer-grade hardware. Demonstrated that scaling laws apply to low-quality brain data, while revealing that consumer EEG requires 20x+ the data volume of lab-grade systems.
+### 🧠 **ENIGMA** - Unified EEG-to-Image Model
+*Multi-subject EEG neural image reconstruction model. Submitted to CVPR 2026.*
+- Reduces new-user calibration from hours to ~15 minutes
+- Uses shared neural patterns across individuals with lightweight latent alignment
+- Cross-modal alignment between EEG embeddings and visual latent spaces (CLIP)
+- [GitHub](https://github.com/UgoBruzadin/ENIGMA) • [Blog Post](https://www.alljoined.com/blog/introducing-enigma)
 
-- **[ENIGMA](https://www.alljoined.com/blog/introducing-enigma)** — A multi-subject EEG neural image reconstruction model that reduces new-user calibration from hours to ~15 minutes. Uses shared neural patterns across individuals with lightweight latent alignment layers, sharing 99%+ of parameters across users.
+### 📊 **Alljoined-1.6M** - Large-Scale EEG Dataset
+*1.6 million visual stimulus trials for affordable BCI research. Published on OpenArxiv 2025.*
+- Dataset from 20 participants on consumer-grade hardware
+- Demonstrates scaling laws apply to low-quality brain data
+- Consumer EEG requires 20x+ the data volume of lab-grade systems
+- [GitHub](https://github.com/UgoBruzadin/Alljoined-1.6M) • [Blog Post](https://www.alljoined.com/blog/introducing-alljoined-1-6m)
 
-## Current Projects
-- **EEG-Based Image Reconstruction** — Decoding visual perception from brain signals
-- **EEG Quality Analysis** — Investigating how EEG recording quality metrics predict neural decoding performance
-- **FG/BG EEG Analysis** — Studying foreground vs. background contributions to CLIP representations and their implications for EEG reconstruction
-- **Syn2Emo** — Synthetic emotion labeling with multimodal LLMs, benchmarked against NAPS, OASIS, and GAPED datasets
-- **FPVS Emotion Proxy** — Fast Periodic Visual Stimulation for facial expression
+### 🧪 **Triangulation Project** - Consciousness Decoding
+*Cross-task EEG/ERP decoding framework with temporal generalization.*
+- Moving-window cross-validation across multiple ML models
+- 134% speedup in analysis; novel signatures identified (VAP, inattentional blindness correlates)
+- [GitHub](https://github.com/UgoBruzadin/Triangulation_Project)
 
-## Skills
-- **Programming Languages:** Python, MATLAB, R, JavaScript, mySQL
-- **Techniques:** Vision, NLP, Deep Neural Networks (PyTorch, Keras/TensorFlow), Machine Learning (Scikit-Learn), Time-Series Analysis (MNE, NumPy, Pandas), Data Visualization (Seaborn, Matplotlib), 
+### ⚡ **QuickLab** - EEG Preprocessing Tool
+*Open-source EEGLAB plugin for high-speed EEG preprocessing and visualization.*
+- Parallelized MATLAB processing with streamlined GUI
+- ~500% improvement in processing speed
+- [GitHub](https://github.com/UgoBruzadin/QuickLab)
 
-## Other Projects
-- [Triangulation Project](https://github.com/UgoBruzadin/Triangulation_Project) — Cross-task EEG/ERP decoding with moving-window cross-validation across multiple ML models
-- [CNN Benchmark EEG Blindness](https://github.com/UgoBruzadin/CNN_benchmark_EEG_Blindness) — 3D Convolutional Neural Network for decoding inattentional blindness from brain signals
-- [QuickLab](https://github.com/UgoBruzadin/QuickLab) — Comprehensive EEGLAB plugin for EEG data processing with an intuitive UI
-- [XTTS Read Aloud](https://github.com/UgoBruzadin/XTTS-Read-Aloud) — Chrome extension integrating screen reader functionality with TTS APIs
+## 💼 Current Work
 
-## Get in Touch
-- **Ask me about:** EEG/BCI, Data science, Neural Decoding, Deep Learning for Neuroscience
-- [Email me](mailto:ugobruzadin@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ugonunes/)
+**Neural Data Scientist** @ Alljoined (2025–Present)
+- Designing end-to-end ML pipelines for multimodal datasets (EEG, behavioral data, eye-tracking)
+- Developing preprocessing workflows improving model accuracy by 12%
+- Scaling experiments across GPU clusters using SLURM
 
-## Fun Facts
+**Visiting Scholar** @ Chapman University (2025–Present)
+- Computational models decoding conscious perception using EEG and ML
+- Managing multi-lab EEG projects (>5 TB data, 200+ participants)
+
+## 🛠️ Technical Skills
+
+**Programming & Tools:** Python, PyTorch, TensorFlow, Scikit-Learn, MATLAB, SQL, JavaScript, R, C/C++
+
+**Neural Data & BCI:** EEG/MEG Decoding, Lab Streaming Layer (LSL), Feature Extraction, Neural Signal Processing, Time–Frequency Analysis
+
+**Machine Learning:** CNN, Transformer, RNN, Tree-Based Models, Time-Series Forecasting, Self-Supervised Learning
+
+**Infrastructure:** Docker, AWS, SLURM, Git, Experiment Versioning
+
+## 📚 Recent Publications
+
+- *"ENIGMA: A Unified Lightweight EEG-to-Image Model for Multi-Subject Visual Decoding"* - CVPR 2026 Submission
+- *"Alljoined-1.6M: A Million-Trial EEG-Image Dataset for Evaluating Affordable BCIs"* - OpenArxiv 2025
+- *"Two, Not One: Electrophysiological Correlates of Consciousness in a No-Report Paradigm"* - ASSC 2025 Poster
+- *"Visual Awareness Positivity: A Novel Neural Correlate of Consciousness"* - VSS 2025 Talk
+
+## 🎓 Education
+
+- **Ph.D. Cognitive Neuroscience** - Southern Illinois University (2023)
+- **M.A. Cognitive Neuroscience** - Southern Illinois University (2018)
+- **B.A. Psychology** - Pontíficia Universidade Católica de São Paulo (2012)
+
+## 🤝 Let's Connect
+
+**Ask me about:** EEG/BCI, Neural Decoding, Deep Learning for Neuroscience, Multimodal Data Pipelines
+
+- [📧 Email](mailto:ugobruzadin@gmail.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/ugonunes/)
+- [🌐 Portfolio](https://ugobruzadin.github.io/portfolio/)
+
+## 🎯 Fun Facts
+
 - **Pronouns:** He/Him/His
-- **Fun fact:** I am a recent dad, I love spending time with my kid! Also I'm a hardcore gamer, but love to disconnext and go to the wild to touch grass.
+- **Fun fact:** Recent dad who loves spending time with my kid! Also a hardcore gamer who enjoys disconnecting to touch grass in the wild.
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+---
+
+⭐ **Check out my [interactive portfolio](https://ugobruzadin.github.io/portfolio/)** for detailed project showcases, experience timeline, and publications!
+
+---
+
+*Feel free to explore my repositories and reach out for collaborations or questions!*
