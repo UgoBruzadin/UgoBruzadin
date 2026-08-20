@@ -31,7 +31,7 @@ My role: built and maintained the scalable data pipeline (raw ingestion to valid
 ## 💼 Current Work
 
 **Neuroscience Advisor** @ NeuroLeap Corp. (Jul 2026 – Present)
-Part-time advisory role on neural data processing and neurodiagnostic protocols for neurodevelopmental conditions in childhood.
+Part-time advisory role directing BCI paradigm design, EEG signal-processing R&D, and technical strategy for neural decoding applications.
 
 **Postdoctoral Fellow & Visiting Scholar** @ Brain Institute, Chapman University (Sep 2023 – Present)
 Identifying novel neural patterns predictive of conscious states across multiple tasks using advanced statistics, cluster analysis, machine learning, and neural networks.
@@ -57,7 +57,7 @@ Adjunct faculty appointment teaching statistics and measurement courses.
 
 ## 📚 Recent Publications
 
-- *"ENIGMA: A Unified Lightweight EEG-to-Image Model for Multi-Subject Visual Decoding"* — Transactions on Machine Learning Research (TMLR) — in press — [link](https://arxiv.org/abs/2602.10361)
+- *"ENIGMA: EEG-to-Image in 15 Minutes Using Less Than 1% of the Parameters"* — Transactions on Machine Learning Research (TMLR) — in press — [link](https://arxiv.org/abs/2602.10361)
 - *"Alljoined-1.6M: A Million-Trial EEG-Image Dataset for Evaluating Affordable BCIs"* — arXiv preprint — [link](https://arxiv.org/abs/2508.18571)
 - *"Two, Not One: Electrophysiological Correlates of Consciousness in a No-Report Paradigm"* — ASSC 2025 — poster
 - *"Visual Awareness Positivity: A Novel Neural Correlate of Consciousness"* — Vision Sciences Society (VSS) 2025 — talk
