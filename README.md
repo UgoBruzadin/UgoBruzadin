@@ -10,6 +10,10 @@ Data scientist and computational neuroscientist with 10+ years of experience bui
 
 ## 🔬 Featured Research & Projects
 
+### **Storm Outage Risk**
+*County-level power-outage risk model for the 216 counties of Missouri and Illinois: a DuckDB + dbt warehouse of public outage, weather and place data, a tracked model benchmark, and an interactive dashboard.*
+[GitHub](https://github.com/UgoBruzadin/storm-outage-risk) • [Project Page](https://ugobruzadin.github.io/storm-outage-risk/)
+
 ### **ENIGMA**
 *Unified lightweight EEG-to-image model for multi-subject visual decoding. Transactions on Machine Learning Research (TMLR), in press 2026; poster at the NeurIPS 2025 Foundation Models for the Brain and Body Workshop.*
 My role: preprocessing and cross-subject alignment pipeline; ablation studies and model evaluation.
